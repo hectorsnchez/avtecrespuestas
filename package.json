@@ -1,0 +1,11 @@
+{
+  "name": "ip-catcher",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "mongodb": "^5.8.0"
+  }
+}
